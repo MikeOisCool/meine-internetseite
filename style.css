@@ -1,0 +1,17 @@
+.page-content{
+    padding: 40px;
+    text-align: center;
+    
+}
+
+.mdl-textfield {
+    width: 100%
+}
+.vocabulary-item {
+    padding: 5px;
+    margin-right: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: rigth;
+    margin-bottom: 0px; /* Optional: Fügt etwas Abstand zwischen den Elementen hinzu */
+}
